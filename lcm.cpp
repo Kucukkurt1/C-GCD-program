@@ -22,3 +22,4 @@ break;
 }
 printf("Lcm: %d",lcm);
 }
+
