@@ -1,0 +1,4 @@
+﻿  m2k.cpp
+C:\Users\WİNDOWS 10 PRO\OneDrive\Masaüstü\m2k\m2k\m2k.cpp(1,1): warning C4005: 'UNICODE': makro yeniden tanımlama
+C:\Users\WİNDOWS 10 PRO\OneDrive\Masaüstü\m2k\m2k\m2k.cpp(1,1): message : 'UNICODE' önceden komut satırında bildirildi
+  m2k.vcxproj -> C:\Users\WİNDOWS 10 PRO\OneDrive\Masaüstü\m2k\m2k\x64\Debug\m2k.exe
