@@ -22,7 +22,5 @@ int main() {
 
     return 0;
 }
-/*double power(double base, int exponent) fonksiyonu, verilen taban sayýsýný verilen
- üssayýsý kadar çarpmak için kullanýlýr. Bu fonksiyon içinde, result deðiþkeni
- 1 olarak tanýmlanýr ve for döngüsü içinde, result deðiþkeni base deðiþkeni ile exponent 
- kadar çarpýlýr.*/
+
+
